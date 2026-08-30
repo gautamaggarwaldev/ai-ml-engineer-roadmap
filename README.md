@@ -1,5 +1,4 @@
 # The Complete AI Engineer Roadmap — Beginner to Job-Ready (2026)
-### Personalized for GG (Gautam Aggarwal) — CSE undergrad, full-stack/backend background (Node.js, Express, MongoDB, React, JWT), C++ DSA practice, graduating June 2026
 
 ---
 
